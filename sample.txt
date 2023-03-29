@@ -1,2 +1,2 @@
 welcome to git`
-welcome to aws devops
+welcome to aws and azure devops
