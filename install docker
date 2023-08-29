@@ -1,0 +1,2 @@
+
+sudo curl https://raw.githubusercontent.com/digitaledify/lms-public/main/install-docker.sh | bash
